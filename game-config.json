@@ -1,0 +1,21 @@
+{
+  "gameName": "MeowDoku",
+  "gameIndex": 1,
+  "packageName": "com.coderider.meowdoku.sudoku",
+
+  "forceUpdateEnabled": false,
+  "latestVersion": "1.0.0",
+  "minSupportedVersion": "1.0.0",
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.coderider.meowdoku.sudoku",
+
+  "updateTitle": "Update G",
+  "updateMessage": "A new version of the game is available. Please update now for the best experience.",
+  "updateButtonText": "Update Now",
+
+  "showAppOpen": true,
+  "showBanner": true,
+  "showInterstitial": true,
+  "showRewarded": true,
+
+  "MoreGaUrl": "https://play.google.com/store/search?q=pub%3ACodeRider&c=apps&hl=en_IN"
+}
