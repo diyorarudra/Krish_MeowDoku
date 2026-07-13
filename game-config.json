@@ -12,7 +12,7 @@
   "updateMessage": "A new version of the game is available. Please update now for the best experience.",
   "updateButtonText": "Update Now",
 
-  "showAppOpen": true,
+  "showAppOpen": false,
   "showBanner": true,
   "showInterstitial": true,
   "showRewarded": true,
