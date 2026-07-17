@@ -16,6 +16,7 @@
   "showBanner": true,
   "showInterstitial": true,
   "showRewarded": true,
-
+  "showtheambtn":true,
+  
   "MoreGaUrl": "https://play.google.com/store/search?q=pub%3ACodeRider&c=apps&hl=en_IN"
 }
