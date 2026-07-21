@@ -8,7 +8,7 @@
   "minSupportedVersion": "1.0.0",
   "playStoreUrl": "https://play.google.com/store/apps/details?id=com.coderider.meowdoku.sudoku",
 
-  "updateTitle": "Update G",
+  "updateTitle": "Update",
   "updateMessage": "A new version of the game is available. Please update now for the best experience.",
   "updateButtonText": "Update Now",
 
@@ -17,6 +17,10 @@
   "showInterstitial": true,
   "showRewarded": true,
   "showtheambtn":false,
+
+  "interstitial_every_x_wins":2,
+  "ads_start_level":5,
+  "show_ads_every_level_after":50,
   
   "MoreGaUrl": "https://play.google.com/store/search?q=pub%3ACodeRider&c=apps&hl=en_IN"
 }
