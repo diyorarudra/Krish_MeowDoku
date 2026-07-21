@@ -21,7 +21,7 @@
   "interstitial_every_x_wins":2,
   "ads_start_level":5,
   "show_ads_every_level_after":50,
-  "ShowIARLevel" = 5,
+  "ShowIARLevel" : 5,
   
   "MoreGaUrl": "https://play.google.com/store/search?q=pub%3ACodeRider&c=apps&hl=en_IN"
 }
