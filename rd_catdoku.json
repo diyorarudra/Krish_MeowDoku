@@ -21,6 +21,6 @@
   "interstitial_every_x_wins":2,
   "ads_start_level":5,
   "show_ads_every_level_after":50,
-  
+  "ShowIARLevel":5,
   "MoreGaUrl": "https://play.google.com/store/apps/developer?id=DENGINES+GAMES&hl=en_IN"
 }
