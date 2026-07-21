@@ -3,20 +3,20 @@
   "gameIndex": 1,
   "packageName": "com.catdoku.meow.sudoku",
 
-  "forceUpdateEnabled": true,
+  "forceUpdateEnabled": false,
   "latestVersion": "1.0.0",
   "minSupportedVersion": "1.0.0",
   "playStoreUrl": "https://play.google.com/store/apps/details?id=com.catdoku.meow.sudoku",
 
-  "updateTitle": "Update G",
+  "updateTitle": "Update",
   "updateMessage": "A new version of the game is available. Please update now for the best experience.",
   "updateButtonText": "Update Now",
 
-  "showAppOpen": true,
+  "showAppOpen": false,
   "showBanner": true,
   "showInterstitial": true,
   "showRewarded": true,
-  "showtheambtn":true,
+  "showtheambtn":false,
 
   "MoreGaUrl": "https://play.google.com/store/apps/developer?id=DENGINES+GAMES&hl=en_IN"
 }
