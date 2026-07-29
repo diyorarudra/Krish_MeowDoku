@@ -5,7 +5,7 @@
 
   "forceUpdateEnabled": false,
   "latestVersion": "1.0.0",
-  "minSupportedVersion": "1.0.0",
+  "minSupportedVersion": "1.7.3",
   "playStoreUrl": "https://play.google.com/store/apps/details?id=com.tilematch.puzzleclub",
 
   "updateTitle": "Update",
