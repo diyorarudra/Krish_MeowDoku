@@ -3,7 +3,7 @@
   "gameIndex": 2,
   "packageName": "com.tilematch.puzzleclub",
 
-  "forceUpdateEnabled": false,
+  "forceUpdateEnabled": true,
   "latestVersion": "1.7.3",
   "playStoreUrl": "https://play.google.com/store/apps/details?id=com.tilematch.puzzleclub",
 
