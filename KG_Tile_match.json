@@ -1,0 +1,26 @@
+{
+  "gameName": "Tile Match",
+  "gameIndex": 2,
+  "packageName": "com.tilematch.puzzleclub",
+
+  "forceUpdateEnabled": false,
+  "latestVersion": "1.0.0",
+  "minSupportedVersion": "1.0.0",
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.tilematch.puzzleclub",
+
+  "updateTitle": "Update",
+  "updateMessage": "A new version of the game is available. Please update now for the best experience.",
+  "updateButtonText": "Update Now",
+
+  "showAppOpen": false,
+  "showBanner": true,
+  "showInterstitial": true,
+  "showRewarded": true,
+
+  "interstitial_every_x_wins":2,
+  "ads_start_level":5,
+  "show_ads_every_level_after":50,
+  "ShowIARLevel" : 5,
+  
+  "MoreGaUrl": "https://play.google.com/store/apps/details?id=com.tilematch.puzzleclub"
+}
