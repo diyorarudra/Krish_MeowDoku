@@ -1,0 +1,25 @@
+{
+  "gameName": "cat Slide",
+  "gameIndex": 3,
+  "packageName": "com.cat.catslide.colorpuzzle",
+
+  "forceUpdateEnabled": false,
+  "latestVersion": "1.0.0",
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.cat.catslide.colorpuzzle",
+
+  "updateTitle": "Update",
+  "updateMessage": "A new version of the game is available. Please update now for the best experience.",
+  "updateButtonText": "Update Now",
+
+  "showAppOpen": true,
+  "showBanner": true,
+  "showInterstitial": true,
+  "showRewarded": true,
+
+  "interstitial_every_x_wins":2,
+  "ads_start_level":5,
+  "show_ads_every_level_after":100,
+  "ShowIARLevel" : 8,
+  
+  "MoreGaUrl": "https://play.google.com/store/apps/developer?id=DENGINES+GAMES"
+}
