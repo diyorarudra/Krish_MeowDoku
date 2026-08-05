@@ -18,7 +18,7 @@
   "showRewarded": true,
   "showtheambtn":false,
 
-  "interstitial_every_x_wins":3,
+  "interstitial_every_x_wins":4,
   "ads_start_level":11,
   "show_ads_every_level_after":100,
   "ShowIARLevel":5,
