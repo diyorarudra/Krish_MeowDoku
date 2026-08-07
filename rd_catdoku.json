@@ -16,7 +16,7 @@
   "showBanner": true,
   "showInterstitial": true,
   "showRewarded": true,
-  "showtheambtn":false,
+  "showtheambtn":true,
 
   "interstitial_every_x_wins":4,
   "ads_start_level":11,
