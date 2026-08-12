@@ -12,8 +12,8 @@
   "updateButtonText": "Update Now",
 
   "showAppOpen": true,
-  "showBanner": false,
-  "showInterstitial": false,
+  "showBanner": true,
+  "showInterstitial": true,
   "showRewarded": true,
 
   "interstitial_every_x_wins":2,
