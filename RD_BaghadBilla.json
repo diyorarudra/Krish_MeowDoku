@@ -13,7 +13,7 @@
 
   "showAppOpen": true,
   "showBanner": true,
-  "showInterstitial": true,
+  "showInterstitial": false,
   "showRewarded": true,
 
   "interstitial_every_x_wins":2,
